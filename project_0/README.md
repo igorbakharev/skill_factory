@@ -2,10 +2,15 @@
 
 ## Content
 [1. Project description](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Project-description)
+
 [2. Case description](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Case-description)
+
 [3. Brief data description](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Brief-data-description)
+
 [4. Work stages](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Work-stages)
+
 [5. Result](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Result)
+
 [6. Conclusions](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Conclusions)
 
 ## Project description
