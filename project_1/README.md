@@ -20,13 +20,13 @@ The goal is to find an integer guessed by the computer using less than 20 attemp
 * The computer guesses an integer from 1 to 100 to be found.
 * The algorithm takes into account information if the random number is less than or greater than the required number.
 
-:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Content)
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
 
 <a id='Quality-assessment'></a>
 ## 2. Quality assessment
 The results are evaluated by the average number of attempts per 1000 repetitions. The goal is to get the minimum number of attempts.
 
-:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Content)
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
 
 <a id='Personal-goals'></a>
 ## 3. Personal goals
@@ -34,22 +34,22 @@ The results are evaluated by the average number of attempts per 1000 repetitions
 * Learning the IDE
 * Exploring GitHub
 
-:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Content)
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
 
 <a id='Method-description'></a>
 ## 4. Method description
 The median of the range of integers from 1 to 100 is 50. This should be the first guess. If we're less than that number, our next guess will be 25. Keep guessing halfway and we'll get the correct number in less than 8 attempts.
 
-:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Content)
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
 
 <a id='Results'></a>
 ## 5. Results
 Using the *score_game* function from the Skill Factory PYTHON-8 unit, which takes 1000 iterations to evaluate the performance of the modified *random_predict* function, it was found that the updated algorithm needs an average of **5 attempts** to find the guessed number that is lower than 20.
 
-:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Content)
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
 
 <a id='Conclusions'></a>
 ## 6. Conclusions
 The use of a mathematical "half-cut" algorithm, provided that the information that the random number is greater or less than the one guessed, has been used, has reduced the number of attempts from 101 to 5 in avarage.
 
-:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_0/README.md#Content)
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
