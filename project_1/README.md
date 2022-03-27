@@ -50,6 +50,6 @@ Using the *score_game* function from the Skill Factory PYTHON-8 unit, which take
 
 <a id='Conclusions'></a>
 ## 6. Conclusions
-The use of a mathematical "half-cut" algorithm, provided that the information that the random number is greater or less than the one guessed, has been used, has reduced the number of attempts from 101 to 5 in avarage.
+The use of a mathematical "half-cut" algorithm with the information that the random number is greater or less than the one guessed has reduced the number of attempts from 101 to 5 in average.
 
 :arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
