@@ -14,6 +14,8 @@
 
 [6. Conclusions](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Conclusions)
 
+[7. Code reproducibility](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Code-reproducibility)
+
 <a id='Project-description'></a>
 ## 1. Project description
 The goal is to find an integer guessed by the computer using less than 20 attempts.
@@ -51,5 +53,11 @@ Using the *score_game* function from the Skill Factory PYTHON-8 unit, which take
 <a id='Conclusions'></a>
 ## 6. Conclusions
 The use of a mathematical "half-cut" algorithm with the information that the random number is greater or less than the one guessed has reduced the number of attempts from 101 to 5 in average.
+
+:arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
+
+<a id='Code-reproducibility'></a>
+## 7. Code reproducibility
+To be sure that the code can be anytime reproduced, the libraries versions are fixed in the *requirements.txt* file. To transfer these versions to another computer, use the **pip install -r requirements.txt** command.
 
 :arrow_up:[Back to content](https://github.com/igorbakharev/skill_factory/tree/main/project_1/README.md#Content)
